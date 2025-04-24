@@ -61,9 +61,3 @@ The dashboard consists of two main sections:
 - Add drill-through pages for city and rep-level detail
 - Include predictive modeling for deal closures
 - Integrate real-time marketing spend via API
-
----
-
-## 🙌 Contact
-
-If you vibed with this project or wanna collab on something awesome, hit me up on [LinkedIn](#) or drop a DM on [Instagram](#).
