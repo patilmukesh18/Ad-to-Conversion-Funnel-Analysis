@@ -37,6 +37,8 @@ The dashboard consists of two main sections:
 
 ---
 
+![Screenshot](https://github.com/patilmukesh18/Ad-to-Conversion-Funnel-Analysis/blob/main/Screenshot%202025-06-16%20110444.png)
+
 ## 📈 Key Business Questions Answered
 
 - Which sales rep is generating the most revenue?
