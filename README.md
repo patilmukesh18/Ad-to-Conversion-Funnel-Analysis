@@ -36,8 +36,11 @@ The dashboard consists of two main sections:
 - **🎨 Custom Visuals** – pie charts, donut charts, treemaps, line charts, and bar graphs
 
 ---
-
+## Campaingn Performance Analysis
 ![Screenshot](https://github.com/patilmukesh18/Ad-to-Conversion-Funnel-Analysis/blob/main/Screenshot%202025-06-16%20110444.png)
+
+## Sales Performace Analysis
+![Screenshot](https://github.com/patilmukesh18/Ad-to-Conversion-Funnel-Analysis/blob/main/Screenshot%202025-06-16%20110500.png)
 
 ## 📈 Key Business Questions Answered
 
